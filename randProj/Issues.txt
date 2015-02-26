@@ -1,0 +1,4 @@
+Keepign track of any issues at hand   
+
+Memory redundancy in the move(piece) functions
+Doesn't keep track of turns (player1, player2)
